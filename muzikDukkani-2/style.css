@@ -1,0 +1,23 @@
+body {
+    background-color: #E9ECEF;
+    font-family: 'Newsreader', serif;
+}
+
+.container ul {
+    display: table;
+    margin: 0 auto;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+.card {
+    margin: 10px auto;
+    float: none;
+}
+
+header h2 {
+    color: purple;
+}
